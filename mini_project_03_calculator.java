@@ -3,7 +3,8 @@ package Company;
 import java.util.Scanner;
 
 public class mini_project_03_calculator {
-/*
+/*Using Static void method or method overloading you can create 
+//Or directly in method u can run this program to get out put withou any intizalization
     public static int Additon(int n)
     {
 
